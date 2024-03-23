@@ -251,6 +251,6 @@ https://www.youtube.com/watch?v=DtBu1u5aBsc
 #### Information about “Emotion Detection Through Facial Expression" from 
 http://www.google.com/search
 #### Dataset “fer2013” from
-https://www.kaggle.com/deadskull7/fer2013
+https://www.kaggle.com/datasets/nicolejyt/facialexpressionrecognition
 #### “Emotion Detection – Python project using Machine Learning & OpenCV” by Misbah Mohammed -
 https://www.youtube.com/watch?v=AP9e4ny_KHc
