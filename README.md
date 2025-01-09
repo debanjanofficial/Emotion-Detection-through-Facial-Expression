@@ -33,27 +33,23 @@ accuracy of this system compared to the other available systems.
 
 ## REQUIREMENTS
 ### ❖Software:
-➢ Anaconda Navigator
-➢ Pycharm
-➢ Jupitar Notebook
-➢ Anaconda Prompt
-➢ Microsoft Word 2013
-➢ Microsoft PowerPoint 2013
-➢ Database Storage: Microsoft Excel 2013
+➢ VS Code
+➢ Microsoft Word
+➢ Microsoft PowerPoint
+➢ Database Storage: Microsoft Excel
 ### ❖Hardware:
-➢ Processor: INTEL CORE i5 8th Gen with minimum 1.6 GHz speed
-➢ RAM: Minimum 8 GB
-➢ Hard Disk: Minimum 2 TB
+➢ Processor: M1 Pro chip
+➢ RAM: Minimum 16 GB
+➢ Hard Disk: Minimum 1 TB
 ### ❖Operating System:
-➢ Windows 10
+➢ Mac OS
 ### ❖Language:
-➢ Python 3.7
+➢ Python 3.13
 ### ❖Library:
 ➢ NumPy
 ➢ Pandas
-➢ Keras
 ➢ OpenCV
-➢ TensorFlow
+➢ Pytorch
 
 
 ## PLANNING
@@ -179,7 +175,7 @@ We can enable it by going to ‘Runtime’ in Google Colab and then clicking
 on ‘Change runtime type’ and select GPU. Once it is enabled we will now
 import the required libraries for building the network. The code is uploaded.
 
-### VGG16 Model for Emotion Detection:
+### ResNet50 for Emotion Detection:
 Now it’s time to design the CNN model for emotion detection with
 different layers. We start with the initialization of the model followed
 by batch normalization layer and then different convents layers with
