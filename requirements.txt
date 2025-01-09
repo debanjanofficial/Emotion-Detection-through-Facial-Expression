@@ -1,0 +1,15 @@
+# Core dependencies
+torch>=2.1.0
+torchvision>=0.16.0
+numpy>=1.19.5
+pandas>=1.1.5
+opencv-python>=4.5.2
+scikit-learn>=1.5.0
+
+# Training and visualization
+tqdm>=4.65.0
+matplotlib>=3.3.4
+seaborn>=0.9.0
+
+
+
